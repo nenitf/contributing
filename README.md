@@ -66,3 +66,11 @@ git push origin --delete my-fix-branch
 git fetch --all
 git reset --hard upstream/main
 ```
+
+## Shield
+
+[![contributing](https://img.shields.io/badge/CONTRIBUTING-CONTRIBUINDO-%23fff)](http://neni.dev/contributing)
+
+```md
+[![contributing](https://img.shields.io/badge/CONTRIBUTING-CONTRIBUINDO-%23fff)](http://neni.dev/contributing)
+```
