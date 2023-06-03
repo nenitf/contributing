@@ -6,6 +6,14 @@ Encontrou um erro? Quer conversar/sugerir uma nova funcionalidade? Pode enviar u
 
 Lembre de explicar o cenário do bug/feature.
 
+```mermaid
+graph LR
+simplicidade --> manutenibilidade --> qualidade
+simplicidade --> performance --> qualidade
+
+qualidade --> t[trabalho eficiente]
+```
+
 ## Enviando um PR
 
 1. *Forke* o projeto.
